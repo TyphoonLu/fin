@@ -1,0 +1,64 @@
+.infm .infm_01{
+    max-width: 1150px;
+    margin: 20px auto 0;
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    grid-gap: 30px;
+    
+}
+.infm .infm_01 div{
+    /* border: 1px solid #ccc; */
+    
+}
+.infm .infm_01 div:hover{
+    box-shadow: 5px 5px 1px rgba(0,0,0,.05);
+}
+/* .infm .infm_01 div .light{
+    position: absolute;
+}
+.infm .infm_01 div .light img{
+    width: 100%;
+} */
+/* .infm .infm_01 div .dark{
+    width: 100%;
+    height: 0;
+    background-color:rgba(0,0,0,.5);
+    transition: height 1s linear 0.5s;
+    overflow: hidden;
+    position: relative;
+    top: 0;
+} */
+/* .infm .infm_01 div .dark p{
+    text-align: center;
+    margin-top: 83px;
+    color: #fff;
+} */
+/* .infm .infm_01 div:hover .dark{
+    height: 169px;
+    display: block;
+} */
+/* .infm .infm_01 div:hover .light h3{
+    display: none;
+} */
+.infm .infm_01 div h3{
+    text-align: center;
+    font-size: 16px;
+    opacity: 0.8;
+}
+.infm .selec{
+    max-width: 1150px;
+    margin: 0 auto;
+}
+.infm .selec .select{
+    max-width: 200px;
+    margin: 50px auto 0;
+}
+.infm .selec .select a{
+    box-shadow: 0 1px 1px rgba(0,0,0,.05);
+    padding: 10px;
+}
+footer{
+    margin-top: 30px;
+   
+}
+

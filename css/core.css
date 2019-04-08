@@ -1,0 +1,28 @@
+.dataacqu{
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+.dataacqu .data_01{
+    max-width: 372px;
+    padding-top: 150px;
+}
+.dataacqu .data_01 h1{
+    margin-bottom: 15px;
+    opacity: 0.8;
+    font-size: 35px;
+}
+.dataacqu .data_01 p{
+    color: #ccc;
+    line-height: 1.5;
+}
+.dataacqu .data_02 img{
+    margin-right: 150px;
+}
+.dataacqu .data_03{
+    margin-left: 100px;
+}
+.acqu{
+    margin-top: 100px;
+}
